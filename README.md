@@ -24,5 +24,5 @@ It helps you:
 
 ```bash
 pip install streamlit
-streamlit run app.py
+streamlit run bmi_calculator.py
 ```
