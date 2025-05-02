@@ -13,7 +13,7 @@ It helps you:
 
 ### 📸 Screenshot
 
-![BMI Calculator Screenshot](./screenshot.png)
+![BMI Calculator Screenshot](Screenshot.png)
 
 ### 🛠️ Tech Stack
 
